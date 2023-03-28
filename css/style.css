@@ -1,34 +1,33 @@
-h1{
-
-}
-/* Colors background */
-.bg-primary{
-    background-color: #FFEA00;
-}
-
-.bg-primarylight{
-    background-color: #FFFF8D;
-}
-
-.bg-primarydark{
-    background-color: #FF9100;
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-image: url("../assets/img/painel-solar.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    max-height: 20%;
+    padding: 50px;
+    
 }
 
-.bg-secondary{
-    background-color: #FFA000;
+.first-section-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
 }
 
-
-/* Colors text */
-
-.text-primary{
-    color: #4E342E;
+.first-section-title{
+    font-size: 50px;
 }
 
-.text-primarylight{
-    color: #8D6E63;
+.container-second-section{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 300px;
 }
 
-.text-primarydark{
-    color: #3E2723;
+.second-section-div{
+    display: flex;
 }

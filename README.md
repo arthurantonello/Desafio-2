@@ -5,5 +5,3 @@ https://www.youtube.com/watch?v=ekxYqw220rA
 
 Site da imagem:
 https://gmconline.com.br/conteudo-de-marca/energia-renovavel-tem-se-tornado-tendencia-garantindo-economia-na-conta-de-luz-e-sustentabilidade/
-
-Teste readme
