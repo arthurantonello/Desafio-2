@@ -1,0 +1,34 @@
+h1{
+
+}
+/* Colors background */
+.bg-primary{
+    background-color: #FFEA00;
+}
+
+.bg-primarylight{
+    background-color: #FFFF8D;
+}
+
+.bg-primarydark{
+    background-color: #FF9100;
+}
+
+.bg-secondary{
+    background-color: #FFA000;
+}
+
+
+/* Colors text */
+
+.text-primary{
+    color: #4E342E;
+}
+
+.text-primarylight{
+    color: #8D6E63;
+}
+
+.text-primarydark{
+    color: #3E2723;
+}
