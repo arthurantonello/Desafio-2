@@ -1,18 +1,22 @@
 /* Colors background */
-.bg-primary{
-    background-color: #FFEA00;
+.color-primary{
+    background-color: #69D2E7;
 }
 
-.bg-primarylight{
-    background-color: #FFFF8D;
+.color-secondary{
+    background-color: #A7DBD8;
 }
 
-.bg-primarydark{
-    background-color: #FF9100;
+.color-third{
+    background-color: #E0E4CC;
 }
 
-.bg-secondary{
-    background-color: #FFA000;
+.color-forty{
+    background-color: #F38630;
+}
+
+.color-fifty{
+    background-color: #FA6900;
 }
 
 
