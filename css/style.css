@@ -22,8 +22,8 @@ body{
 /* Landing page principal */
 .first-container{
     width: 100%;
-    margin-bottom: 60%;
-    margin-top: 15%;
+    /* margin-bottom: 60%;
+    margin-top: 15%; */
     display: flex;
     padding: 20px;
     flex-direction: column;
@@ -58,12 +58,40 @@ body{
 }
 
 .icons{
+    max-width: 80%;
+    margin: 2%;
+    margin-bottom: 10%;
+    padding: 15px;
     display: flex;
     flex-direction: column;
     width: fit-content;
-    margin-top: 10px;
-    height: 100%;
+    justify-content: space-around;
+    height: fit-content;
     padding: min(5%,15px);
+ }
+
+ .icon1{
+    display: flex;
+    margin-top: 10px;
+    height: 8%;
+    padding: min(5%,15px);
+    align-items: center;
+ }
+
+ .icon2{
+    display: flex;
+    margin-top: 10px;
+    height: 8%;
+    padding: min(5%,15px);
+    align-items: center;
+ }
+
+ .icon3{
+    display: flex;
+    margin-top: 10px;
+    height: 10%;
+    padding: min(5%,15px);
+    align-items: center;
  }
 
 .text-second-container{
